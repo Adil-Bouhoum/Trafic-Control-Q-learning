@@ -1,0 +1,16 @@
+# Thème Mission Control — projet Trafic Urbain
+# Inspiration : centres de contrôle SCADA, dashboards smart-city
+
+[theme]
+base = "dark"
+primaryColor = "#00D9FF"             # cyan néon (accent principal)
+backgroundColor = "#0B1929"          # navy profond (fond app)
+secondaryBackgroundColor = "#102841" # cartes, sidebar, widgets
+textColor = "#E8F0FE"                # blanc cassé (texte)
+font = "sans serif"
+
+[server]
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
