@@ -190,4 +190,4 @@ module, Pr. Issam Qaffou), engineering cycle, 2025–2026.
 
 ## Author
 
-**Adil Bouhoum**: [Portfolio]([PORTFOLIO_URL]) · [LinkedIn]([LINKEDIN_URL]) · [GitHub](https://github.com/Adil-Bouhoum)
+**Adil Bouhoum**: [LinkedIn](https://www.linkedin.com/in/adil-bouhoum-b83129232) · [GitHub](https://github.com/Adil-Bouhoum)
